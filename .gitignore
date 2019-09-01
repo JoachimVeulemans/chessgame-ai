@@ -2,3 +2,5 @@
 .idea/
 
 venv/
+
+scripts/__pycache__/
