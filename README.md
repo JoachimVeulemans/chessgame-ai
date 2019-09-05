@@ -19,7 +19,7 @@ Navigate to [ai.chessgame.jocawebs.be/api](https://ai.chessgame.jocawebs.be/api)
 
 ## Project Status
 
-Navigate to [Trello]([???]) to view the projects status on Trello.
+Navigate to [Trello](https://trello.com/b/k8dXRchw/chessproject) to view the projects status on Trello.
 
 ## Running the project locally
 
