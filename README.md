@@ -1,4 +1,4 @@
-# Chessgame Backend
+# Chessgame AI
 
 ## General Summary
 
